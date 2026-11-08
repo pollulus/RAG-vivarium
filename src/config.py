@@ -12,6 +12,10 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
+# Исходные файлы книг и извлеченный из них текст
+BOOKS_SOURCE_DIR = DATA_DIR / "books" / "source"
+BOOKS_RAW_DIR = DATA_DIR / "books" / "raw"
+
 # Переменные из .env
 load_dotenv(PROJECT_ROOT / ".env")
 
