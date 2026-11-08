@@ -5,3 +5,7 @@ python-dotenv
 
 # текст из pdf
 pymupdf
+
+# OCR
+pytesseract
+Pillow
