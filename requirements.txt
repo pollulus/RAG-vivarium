@@ -9,3 +9,9 @@ pymupdf
 # OCR
 pytesseract
 Pillow
+
+# тесты
+pytest
+
+# статьи с сайтов
+trafilatura
