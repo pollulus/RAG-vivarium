@@ -1,0 +1,38 @@
+{
+  "bauer_fish_illnesses": {
+    "author": "Р. Бауэр",
+    "title": "Болезни аквариумных рыб",
+    "source_file": "bauer_fish_illnesses.djvu",
+    "url": null
+  },
+  "beily_aquariumist": {
+    "author": "М. Бейли, П. Бергресс",
+    "title": "Золотая книга аквариумиста",
+    "source_file": "beily_aquariumist.pdf",
+    "url": null
+  },
+  "gurgiy_turtles": {
+    "author": "А. Н. Гуржий",
+    "title": "Черепахи аквариумные и сухопутные",
+    "source_file": "gurgiy_turtles.djvu",
+    "url": null
+  },
+  "krasichkova_sliders": {
+    "author": "А. Г. Красичкова",
+    "title": "Красноухие черепахи",
+    "source_file": "krasichkova_sliders.pdf",
+    "url": null
+  },
+  "plonskiy_fish": {
+    "author": "В. Д. Плонский",
+    "title": "Энциклопедия аквариумиста",
+    "source_file": "plonskiy_fish.pdf",
+    "url": null
+  },
+  "sergeenko_turtles": {
+    "author": "Ю. В. Сергеенко",
+    "title": "Черепахи",
+    "source_file": "sergeenko_turtles.pdf",
+    "url": null
+  }
+}
